@@ -15,7 +15,7 @@ sidebar:
   email: sampablo-jisc@outlook.com
   phone: 312-225-06-08
 #  website: # No agregar http://
-  linkedin: brightcoders
+#  linkedin: brightcoders
   github: SampabloC
 #  gitlab:
 #  bitbucket:
@@ -82,10 +82,10 @@ educationcomplete:
 #        - Representaion learning
 #       - Automatic Behavior Analysis
 
-#  - degree: Internship (Master Thesis)
-#    university: Tobii
-#    time: 2014 - 2015
-#    details: |
+  - degree: Internship
+    university: BrightCoders Academy
+    time: 2021 June - current
+    details: |
 #      Master thesis topic Hand gesture classification by Deep learning using infrared camera 
 
 #        - Deep learning
@@ -98,7 +98,13 @@ educationcomplete:
 #      Master degree in Computer Engineering
 
 # Registra aquí tu experiencia. Agrega o elimina según sea necesario
-#experiences:
+experiences:
+   - role: Student
+     time: 2019 - 2020
+     company: Tecnológico Nacional de México Campus Colima
+     details: |
+        Basic project to apply knowledge on Software Engineering to made a website focused on a Crossfit Box.
+        This website connect to a MySQL database and work with Flask framework.
 #  - role: Lead Developer
 #    time: 2015 - Present
 #    company: Startup Hubs, San Francisco
@@ -158,6 +164,9 @@ skills:
       
     - name: Flask
       level: 40%
+      
+    - name: Linux
+      level: 60%
 
 # NO MODIFICAR
 footer: >
