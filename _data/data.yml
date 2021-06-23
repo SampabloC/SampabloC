@@ -23,6 +23,7 @@ sidebar:
 #  stack-overflow: # Number/Username, e.g. 123456/alandoe
   codewars: SampabloC
 #  goodreads: # Number-Username, e.g. 123456-alandoe
+  facebook: Javier Ismael Sampablo Cuevas
 
   # Actualiza según los idiomas y nieles que tienes. Agrega o Elimina según sea necesario.
   languages:
@@ -67,6 +68,12 @@ career-profile:
 
 # Registra aquí tus estudios. Agrega o elimina según sea necesario
 educationcomplete:
+
+  - degree: Internship
+    university: BrightCoders Academy
+    time: 2021 June - current
+    details: |
+    
   - degree: Ingeniería en Sistemas Computacionales
     university: Tecnológico Nacional de México Campus Colima
     time: 2017 August - current
@@ -82,10 +89,7 @@ educationcomplete:
 #        - Representaion learning
 #       - Automatic Behavior Analysis
 
-  - degree: Internship
-    university: BrightCoders Academy
-    time: 2021 June - current
-    details: |
+
 #      Master thesis topic Hand gesture classification by Deep learning using infrared camera 
 
 #        - Deep learning
