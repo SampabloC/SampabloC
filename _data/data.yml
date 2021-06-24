@@ -23,7 +23,6 @@ sidebar:
 #  stack-overflow: # Number/Username, e.g. 123456/alandoe
   codewars: SampabloC
 #  goodreads: # Number-Username, e.g. 123456-alandoe
-  facebook: Javier Ismael Sampablo Cuevas
 
   # Actualiza según los idiomas y nieles que tienes. Agrega o Elimina según sea necesario.
   languages:
@@ -59,12 +58,21 @@ sidebar:
     
     - item: Dedication
       link:
+    
+    - item: Open-mindness
+      link:
       
 # Registra aquí un resumen de tu perfil
 career-profile:
   title: About Me # NO MODIFICAR
   summary: |
-    Lorem ipsum dolor sit amet, con sectetur adipiscing elit. Proin purus ligula, posuere semper est sed, pretium elementum massa. Duis et orci sed nunc. Maecenas at egestas mi. Nulla id augue a lectus condimentum scelerisque vitae sed dui.
+    I am a Computational Systems Engineering student on 8th period who like to learn new skills about programming
+    and improving my work. 
+    I am a person with a great disposition for teamwork.
+    I enjoy self-learning and help teammates when they need it.
+    My goal is become a Senior Developer, so I can help newbie programmers to introduced them good coding skills and other profesional skills.
+    I like to resolve puzzles and some games that present some difficult.
+    My hobby is play some musical instruments, I like to relax sometimes after some coding sessions playing soft music.
 
 # Registra aquí tus estudios. Agrega o elimina según sea necesario
 educationcomplete:
@@ -158,10 +166,10 @@ skills:
       level: 40%
 
     - name: HTML
-      level: 85%
+      level: 70%
 
     - name: CSS
-      level: 80%
+      level: 60%
      
     - name: SQL
       level: 60%
@@ -171,6 +179,9 @@ skills:
       
     - name: Linux
       level: 60%
+      
+    - name: Rails
+      level: 20%
 
 # NO MODIFICAR
 footer: >
