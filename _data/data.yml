@@ -63,7 +63,7 @@ sidebar:
 career-profile:
   title: About Me # NO MODIFICAR
   summary: |
-    I am a Computational Systems Engineering student on 8th period who like to learn new skills about programming
+    I am a Computational Systems Engineering student on 9th period who like to learn new skills about programming
     and improving my work.
     
     I am a person with a great disposition for teamwork.
@@ -148,11 +148,6 @@ experiences:
 #      Cum sociis natoque penatibus et magnis dis parturient montes,
 #      nascetur ridiculus mus. Donec quam felis, ultricies nec,
 #      pellentesque eu, pretium quis, sem.
-volunteering:
-  - degree: Hackathon 4 Good
-    time: 30/July - 01/August
-    details: |
-      Develop backend with Python on Flask where my team won first place developing a website for Techo House.
 # Registra aquí tus habilidades técnicas, para level utiliza:
 # 20% para Novice
 # 40% para Advanced beginner
