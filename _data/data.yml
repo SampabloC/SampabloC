@@ -13,9 +13,9 @@ sidebar:
 
   # Actualiza tus datos de contacto
   email: sampablo-jisc@outlook.com
-  phone: 312-225-06-08
+  phone: 312-317-06-42
 #  website: # No agregar http://
-#  linkedin: brightcoders
+  linkedin: 'Javier Ismael Sampablo Cuevas'
   github: SampabloC
 #  gitlab:
 #  bitbucket:
@@ -31,9 +31,6 @@ sidebar:
 
     - idiom: Spanish
       level: Native # Utiliza el resultado de tu examen oficial, o el nivel de acuerdo al modelo Dreyfus
-      
-    - idiom: Chinese
-      level: Novice
 
 
   # Registra aquí tus soft skills. Agrega o elimina según sea necesario
@@ -151,7 +148,11 @@ experiences:
 #      Cum sociis natoque penatibus et magnis dis parturient montes,
 #      nascetur ridiculus mus. Donec quam felis, ultricies nec,
 #      pellentesque eu, pretium quis, sem.
-
+volunteering:
+  - degree: Hackathon 4 Good
+    time: 30/July - 01/August
+    details: |
+      Develop backend with Python on Flask where my team won first place developing a website for Techo House.
 # Registra aquí tus habilidades técnicas, para level utiliza:
 # 20% para Novice
 # 40% para Advanced beginner
@@ -194,4 +195,4 @@ skills:
 
 # NO MODIFICAR
 footer: >
-  BrightCoders Academy
+  Javier Ismael Sampablo Cuevas
