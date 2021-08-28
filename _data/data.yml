@@ -124,11 +124,11 @@ experiences:
         Working with PostgreSQL as main database.
         Deploying some websites on heroku.
 
-  - role: Volunteering
-    time: 30/July - 01/August
-    company: Hackathon 4 Good
-    details: |
-      Develop backend with Python on Flask where my team won first place developing a website for Techo House.
+   - role: Volunteering
+     time: 30/July - 01/August
+     company: Hackathon 4 Good
+     details: |
+        Develop backend with Python on Flask where my team won first place developing a website for Techo House.
 #  - role: Lead Developer
 #    time: 2015 - Present
 #    company: Startup Hubs, San Francisco
