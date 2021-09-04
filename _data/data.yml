@@ -118,6 +118,14 @@ experiences:
      details: |
         Basic project to apply knowledge on Software Engineering to made a website focused on a Crossfit Box.
         This website connect to a MySQL database and work with Flask framework.
+        
+   - role: Trainee
+     time: 2021
+     company: BrightCoders Academy
+     details: |
+        Develop Web pages with Ruby on Rails framework, using other technologies as HTML5, Sass, Bootstrap, Rspec and a bit of JavaScript.
+        Working with PostgreSQL as main database.
+        Deploying some websites on heroku.
 #  - role: Lead Developer
 #    time: 2015 - Present
 #    company: Startup Hubs, San Francisco
@@ -155,22 +163,22 @@ skills:
 
   toolset:
     - name: Python
-      level: 65%
+      level: 55%
 
     - name: Java
-      level: 75%
+      level: 65%
 
     - name: Git
       level: 70%
 
     - name: Ruby
-      level: 40%
+      level: 60%
 
     - name: HTML
       level: 70%
 
     - name: CSS
-      level: 60%
+      level: 65%
      
     - name: SQL
       level: 60%
@@ -182,7 +190,7 @@ skills:
       level: 60%
       
     - name: Rails
-      level: 20%
+      level: 50%
 
 # NO MODIFICAR
 footer: >
