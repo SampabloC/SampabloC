@@ -175,7 +175,7 @@ skills:
       level: 50%
 
     - name: Java
-      level: 60%
+      level: 40%
 
     - name: Git
       level: 70%
@@ -191,9 +191,6 @@ skills:
      
     - name: SQL
       level: 60%
-      
-    - name: Flask
-      level: 40%
       
     - name: Linux
       level: 60%
