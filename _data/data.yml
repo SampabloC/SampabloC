@@ -82,7 +82,7 @@ educationcomplete:
     
   - degree: Ingeniería en Sistemas Computacionales
     university: Tecnológico Nacional de México Campus Colima
-    time: 2017 August - current
+    time: 2017 August - 2022 January
     details: |
 
   - degree: Bachillerato Técnico en Dibujo
@@ -109,6 +109,13 @@ educationcomplete:
 
 # Registra aquí tu experiencia. Agrega o elimina según sea necesario
 experiences:
+   - role: Full Stack Developer
+     time: 2022 May - Current
+     company: TechSystems
+     details: |
+        Working supporting a Medical Application, solving bugs and develop new features in a Ruby on Rails application, 
+        using other technologies like Jquery, Ajax, React, Mysql and Docker.
+     
    - role: Student
      time: 2019 - 2020
      company: Tecnológico Nacional de México Campus Colima
@@ -165,16 +172,16 @@ skills:
 
   toolset:
     - name: Python
-      level: 55%
+      level: 50%
 
     - name: Java
-      level: 65%
+      level: 60%
 
     - name: Git
       level: 70%
 
     - name: Ruby
-      level: 60%
+      level: 70%
 
     - name: HTML
       level: 70%
@@ -192,7 +199,7 @@ skills:
       level: 60%
       
     - name: Rails
-      level: 50%
+      level: 60%
 
 # NO MODIFICAR
 footer: >
