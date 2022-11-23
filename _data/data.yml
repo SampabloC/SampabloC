@@ -63,14 +63,10 @@ sidebar:
 career-profile:
   title: About Me # NO MODIFICAR
   summary: |
-    I am a Computational Systems Engineering student on 9th period who like to learn new skills about programming
-    and improving my work.
-    
-    I am a person with a great disposition for teamwork.
-    I enjoy self-learning and help teammates when they need it.
-    My goal is become a Senior Developer, so I can help newbie programmers to introduced them good coding skills and other profesional skills.
-    I like to resolve puzzles and some games that present some difficult.
-    My hobby is play some musical instruments, I like to relax sometimes after some coding sessions playing soft music.
+    I am a Computational Systems Engineering who like to learn new skills about programming and improving my work.
+    I am a person with a great disposition for teamwork. I enjoy self-learning and help teammates when they need it.
+    I like to resolve puzzles and some games that present some difficult. 
+    My hobby is playing some musical instruments, I like to relax sometimes after some coding sessions playing soft music.
 
 # Registra aquí tus estudios. Agrega o elimina según sea necesario
 educationcomplete:
@@ -124,7 +120,7 @@ experiences:
         This website connect to a MySQL database and work with Flask framework.
         
    - role: Trainee
-     time: 2021
+     time: 2021 June - 2021 September
      company: BrightCoders Academy
      details: |
         Develop Web pages with Ruby on Rails framework, using other technologies as HTML5, Sass, Bootstrap, Rspec and a bit of JavaScript.
