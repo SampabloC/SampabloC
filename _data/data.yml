@@ -167,32 +167,21 @@ skills:
   title: Technical Skills # NO MODIFICAR
 
   toolset:
-    - name: Python
-      level: 50%
-
-    - name: Java
-      level: 40%
-
     - name: Git
-      level: 70%
 
     - name: Ruby
-      level: 70%
 
     - name: HTML
-      level: 70%
 
     - name: CSS
-      level: 65%
      
     - name: SQL
-      level: 60%
       
     - name: Linux
-      level: 60%
       
     - name: Rails
-      level: 60%
+      
+    - name: JavaScript
 
 # NO MODIFICAR
 footer: >
